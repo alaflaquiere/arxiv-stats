@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 
 
 # TODO: generalize to multiple queries in a single call
+# TODO: check that the query is valid via the first call
 
 def print_help():
     print(
