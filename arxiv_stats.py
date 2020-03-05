@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-Collects stats about the yearly popularity of keywords on arxiv.
+Collects stats about the yearly popularity of queries on arxiv.
 Enter multiple queries separated by a semicolon (;)
 Example of valid queries:
                          electron
@@ -31,7 +31,7 @@ def print_help():
         Collects stats about the yearly popularity of keywords on arxiv.        
         Enter multiple queries separated by a semicolon (;)
         Example of valid queries:
-                                 electron
+                                 causality
                                  au:Pearl ; ti:"gradient descent" ; all:"linear regression"
                                  abs:dropout AND au:hinton ; cat:cs.AI OR cat:cs.LG
                                  abs:"swarm robotics" ; (all:"variational autoencoder" OR all:VAE) AND cat:stat.ML
