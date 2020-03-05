@@ -12,7 +12,7 @@ For a detailed description of the possible query structures, see https://arxiv.o
 """
 __author__ = "Alban Laflaquière"
 __license__ = "MIT"
-__version__ = "1.0.0"
+__version__ = "1.1"
 
 
 import time
