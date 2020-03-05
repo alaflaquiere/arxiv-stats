@@ -40,4 +40,6 @@ RESULTS:
 
 In case [pyplot](https://matplotlib.org/api/pyplot_api.html) is installed on your machine, a bar graph will also display the results. Here is an example for the query ```au:lecun; (abs:GAN AND cat:stat.ML); all:"variational autoencoder"```:
 
-![Results](results.png)
+<p align="center">
+<img src="results.png" alt="Bar graph" width="600">
+</p>
