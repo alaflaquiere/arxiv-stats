@@ -1,4 +1,4 @@
-# arxiv stats [![Ppython version](https://img.shields.io/badge/python-3.5-blue)](https://www.python.org/downloads/)
+# arxiv stats [![Python 3.5](https://img.shields.io/badge/python-3.5-blue.svg)](https://www.python.org/downloads/)
 
 Collects the number of hits per year of a desired *query* on [arxiv](https://arxiv.org/) vie the [arxiv API](https://arxiv.org/help/api).
 
